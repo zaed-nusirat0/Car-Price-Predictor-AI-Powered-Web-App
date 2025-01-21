@@ -1,3 +1,7 @@
+
+![Screenshot from 2024-12-28 02-32-15](![Screenshot from 2025-01-21 18-27-45](https://github.com/user-attachments/assets/d0c26cd3-bd53-4dd5-b2aa-e1d060df1c71))
+
+
 # Car Price Prediction Project
 
 This project focuses on predicting car prices using machine learning techniques. The dataset used contains various features related to cars, such as make, model, type, origin, drivetrain, MSRP, invoice, engine size, cylinders, horsepower, MPG (city and highway), weight, wheelbase, and length.
